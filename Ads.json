@@ -1,16 +1,16 @@
 {
   "AdsSettings": [
     {
-      "Id": 3,
-      "AdUsed": "3"
+      "Id": 1,
+      "AdUsed": "1"
     }
   ],
   "AdsDatas": [
     {
       "Id": 1,
-      "AppId": "ca-app-pub-2911564791276087~4421316304",
-      "BannerId": "ca-app-pub-2911564791276087/3108234639",
-      "InterstitialId": "ca-app-pub-2911564791276087/9482071295",
+      "AppId": "ca-app-pub-6905278243612939~4970582463",
+      "BannerId": "",
+      "InterstitialId": "ca-app-pub-6905278243612939/6092092448",
       "RewardId": ""
     },
     {
